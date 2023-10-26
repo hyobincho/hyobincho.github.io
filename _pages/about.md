@@ -18,8 +18,8 @@ title: "Education"
 excerpt: "education"
 author_profile: true
 redirect_from: 
-  - /about/
-  - /about.html
+  - /education/
+  - /education.html
 
  
 ---
