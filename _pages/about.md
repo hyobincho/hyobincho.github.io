@@ -21,4 +21,7 @@ Education
 
 Experiences
 ======
-* 
+* Undergraduate Teaching Assisant, University of Pittsburgh, Department of Mathematics Aug 2023 - Present
+* Visiting Research Assistant at Computational Mathematics and Medical Imaging Lab, Dong-A university, Korea May 2023- Aug 2023
+* Mah Tutor, University of Pittsburgh, Department of Mathematics Jan 2023 - Apr 2023
+* Research Assistant at Learning Research Development Center, University of Pittsburgh Jan 2023 - Apr 2023
