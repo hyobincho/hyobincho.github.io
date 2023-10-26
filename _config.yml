@@ -83,7 +83,7 @@ author:
   name             : "Hyobin Cho"
   avatar           : "visa_photo.jpg"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  location         : "Pittsburgh, PA"
   github           : "https://github.com/hyobincho/hyobincho.github.io.git"
   linkedin         : "https://www.linkedin.com/in/hyobin-cho-67435525b/"
 
@@ -163,17 +163,6 @@ collections:
 
 # Defaults
 defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
   # _pages
   - scope:
       path: ""
@@ -208,7 +197,7 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _talks
+  # _presentation
   - scope:
       path: ""
       type: talks
