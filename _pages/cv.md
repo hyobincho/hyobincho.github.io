@@ -12,13 +12,13 @@ redirect_from:
 Education
 ======
 * B.S. in Mathematics, University of Pittsburgh, 2023 (expected)
-* B.A.. in international Relations, Republic of Korea Air Force Academy, 2021 (transferred)
+* B.A. in International Relations, Republic of Korea Air Force Academy, 2021 (transferred)
 
 * Publications / Poster
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}
   
 
 Work experience
