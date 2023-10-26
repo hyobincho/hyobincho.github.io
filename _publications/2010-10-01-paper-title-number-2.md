@@ -1,15 +1,8 @@
 ---
-title: "Paper Title Number 2"
-collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+title: "Optimization of Medical Image Compression Using Singular Value Decomposition"
+collection: poster
+excerpt: 'This paper is about the research I did in Summer 2023 and participated in the Youngnam Mathematics Conference on 14 July 2023.'
+date: 2023-07-14
+venue: 'Youngnam Mathematics Society'
+paperurl: '[http://academicpages.github.io/files/paper2.pdf](https://drive.google.com/file/d/1yojGhjavw4akbzpAKAUanjcqLQSyxB6h/view?usp=sharing)'
 ---
-This paper is about the number 2. The number 3 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
-
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
