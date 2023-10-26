@@ -14,6 +14,13 @@ Education
 * B.S. in Mathematics, University of Pittsburgh, 2023 (expected)
 * B.A.. in international Relations, Republic of Korea Air Force Academy, 2021 (transferred)
 
+* Publications / Poster
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
+
 Work experience
 ======
 * Fall 2023 : Teaching Assistant
@@ -73,12 +80,7 @@ Skills
   * LaTeX
 * Communication Skills
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+
 Teaching
 ======
   <ul>{% for post in site.teaching %}
