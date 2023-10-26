@@ -11,9 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Mathematics, University of Pittsburgh, 2023 (expected)
+* B.A.. in international Relations, Republic of Korea Air Force Academy, 2021 (transferred)
 
 Work experience
 ======
