@@ -18,7 +18,7 @@ Education
 * B.S. in Mathematics, University of Pittsburgh 2023 (expected)
 * B.A. in International Relations, Republic of Korea Air Force Academy 2021
 * International School of Ningbo 2018
-
+  
 Experiences
 ======
 * Undergraduate Teaching Assisant, University of Pittsburgh, Department of Mathematics Aug 2023 - Present
