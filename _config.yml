@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Hyobin Cho"
   avatar           : "visa_photo (1).jpg"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "hyc32 (at) pitt.edu"
   location         : "Pittsburgh, PA"
   github           : "https://github.com/hyobincho/hyobincho.github.io.git"
   linkedin         : "https://www.linkedin.com/in/hyobin-cho-67435525b/"
@@ -153,12 +153,6 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
 
 
 # Defaults
@@ -188,23 +182,7 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
-  # _presentation
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
+
 
 # Sass/SCSS
 sass:
