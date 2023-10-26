@@ -2,7 +2,7 @@
 title: "Optimization of Medical Image Compression Using Singular value Decomposition"
 collection: Research Paper
 excerpt: 'This paper is about medical image compression optimization algorithm.'
-date: 26-Oct-2023
+date: 2023-10-26
 venue: TBD
 paperurl: '[files/Optimization on Medical Image Compression Based on SVD.pdf](https://drive.google.com/file/d/1BkJ2cPFeJSMrBHP4rniBhH4DV73FdOV9/view?usp=sharing)'
 ---
